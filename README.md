@@ -1,1 +1,2 @@
-# shadowrocket.ipa
+# shadowrocket 2.1.63.ipa
+# 本应用仅供学习交流，严禁用于商业用途，请遵守中华人民共和国相关法律制度！！！
